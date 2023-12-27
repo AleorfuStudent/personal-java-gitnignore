@@ -47,6 +47,7 @@ replay_pid*
 .idea/
 *.iws
 *.iml
+out/
 
 # NetBeans
 nbproject/
